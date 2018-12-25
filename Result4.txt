@@ -1,0 +1,24 @@
+Guess number between 0 and 100
+70
+
+Try a smaller number between 0 and 69
+50
+
+Try a smaller number between 0 and 49
+20
+
+Try a bigger number between 21 and 49
+27
+
+Try a smaller number between 21 and 26
+25
+
+Try a smaller number between 21 and 24
+22
+
+Try a bigger number between 23 and 24
+24
+
+You won!!!
+
+Process finished with exit code 0

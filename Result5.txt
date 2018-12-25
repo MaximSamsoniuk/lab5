@@ -1,0 +1,26 @@
+filename: EngTest.txt
+auufal
+hfal
+khgkfahkafe
+xihwg
+ykad
+zifhfa
+
+filename: RusTest.txt
+אןûא
+כצדאןכ
+מצאןך
+מûמכאט
+ןרצה
+ןûאנû
+ûûשדא
+ÿשדןנûה
+
+filename: UkrTest.txt
+א³³נכג
+אנכטן³נ
+אףי
+÷כא³כ
+³דןך³ה
+¿³מךןמכ
+ÿשצךאנה

@@ -1,0 +1,20 @@
+Hello world!
+sorted:
+AbstractEmployee{id=51235121, name='maxim'averageMonthlySalary=15001.0}
+AbstractEmployee{id=52346121, name='peter'averageMonthlySalary=15001.0}
+AbstractEmployee{id=34511435, name='john smith'averageMonthlySalary=15000.0}
+AbstractEmployee{id=66492456, name='vova'averageMonthlySalary=6656.0}
+AbstractEmployee{id=43545668, name='john'averageMonthlySalary=5824.0}
+AbstractEmployee{id=73728522, name='cho'averageMonthlySalary=4992.0}
+
+first 5:
+maxim
+peter
+john smith
+vova
+john
+
+last 3:
+66492456
+43545668
+73728522
