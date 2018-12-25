@@ -1,0 +1,2 @@
+      Adding time: ArrayList(): 47635
+LinkedList(): 149041HashSet(): 39452TreeSet(): 3311634      Removing time: ArrayList(): 177972LinkedList(): 115726HashSet(): 54064TreeSet(): 204858      Search time: ArrayList(): 23671LinkedList(): 18119HashSet(): 26301TreeSet(): 30977
